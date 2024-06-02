@@ -11,8 +11,8 @@ are accepted, but it might take some time until they will be merged.
 
 ## Installation
 
-To install xmlrpc package run `go get github.com/kolo/xmlrpc`. To use
-it in application add `"github.com/kolo/xmlrpc"` string to `import`
+To install xmlrpc package run `go get github.com/RedisLabs/xmlrpc`. To use
+it in application add `"github.com/RedisLabs/xmlrpc"` string to `import`
 statement.
 
 ## Usage
