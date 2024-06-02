@@ -1,5 +1,5 @@
-module github.com/kolo/xmlrpc
+module github.com/RedisLabs/xmlrpc
 
-go 1.14
+go 1.20
 
-require golang.org/x/text v0.3.3
+require golang.org/x/text v0.14.0
